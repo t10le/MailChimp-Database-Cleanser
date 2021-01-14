@@ -1,0 +1,4 @@
+column1         = "Email Address"
+fname_main      = "MASTERLIST"
+fname_Bouncer   = "cleaned_members_export"
+fname_Unsub     = "unsubscribed_members_export"
