@@ -1,0 +1,2 @@
+MailChimpCleanser filter=lfs diff=lfs merge=lfs -text
+MailChimpCleanser.zip filter=lfs diff=lfs merge=lfs -text
