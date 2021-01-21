@@ -1,2 +1,4 @@
 MailChimpCleanser filter=lfs diff=lfs merge=lfs -text
 MailChimpCleanser.zip filter=lfs diff=lfs merge=lfs -text
+dist filter=lfs diff=lfs merge=lfs -text
+dist_BigFast/ filter=lfs diff=lfs merge=lfs -text

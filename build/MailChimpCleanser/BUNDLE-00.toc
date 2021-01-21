@@ -1,3 +1,0 @@
-([('MailChimpCleanser',
-   '/Users/tomtom/Desktop/test/dist/MailChimpCleanser',
-   'EXECUTABLE')],)
