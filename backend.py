@@ -236,18 +236,3 @@ class MailChimpApp:
         f = open("config.txt", "w")
         f.write(newdata)
         f.close()
-
-
-# --- Testing Environment ; too lazy to use unittest ---
-# x = MailChimpApp()
-
-# option = 1 # Manually set options to mimic button selection
-# if option == 1:
-#     x.option1(False)
-# elif option == 2:
-#     x.option2()
-# elif option == 3:
-#     x.option3()
-# else:
-#     x.option4("newFileName.csv")
-# -------------------------------------------------------------------------------
